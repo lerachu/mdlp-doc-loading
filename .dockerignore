@@ -1,0 +1,7 @@
+app/__pycache__
+__pycache__
+.git
+README.md 
+desktop.ini
+dockerfile
+run_myapp.sh
